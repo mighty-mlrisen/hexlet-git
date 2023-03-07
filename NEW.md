@@ -1,1 +1,1 @@
-hexlet-new!
+hexlet_java !
