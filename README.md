@@ -1,4 +1,1 @@
-Hello, Hexlet! How are you?
-experiment with amend
-https://asciinema.org/a/u1lzgA8PLf8S1FK63nodhOqDH
-[![asciicast](https://asciinema.org/a/u1lzgA8PLf8S1FK63nodhOqDH.svg)](https://asciinema.org/a/u1lzgA8PLf8S1FK63nodhOqDH)
+<script async id="asciicast-u1lzgA8PLf8S1FK63nodhOqDH" src="https://asciinema.org/a/u1lzgA8PLf8S1FK63nodhOqDH.js"></script>
